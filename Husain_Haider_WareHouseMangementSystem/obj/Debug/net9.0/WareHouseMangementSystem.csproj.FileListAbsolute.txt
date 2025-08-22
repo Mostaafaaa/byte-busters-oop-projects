@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\bin\Debug\net9.0\WareHouseMangementSystem.exe
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\bin\Debug\net9.0\WareHouseMangementSystem.deps.json
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\bin\Debug\net9.0\WareHouseMangementSystem.runtimeconfig.json
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\bin\Debug\net9.0\WareHouseMangementSystem.dll
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\bin\Debug\net9.0\WareHouseMangementSystem.pdb
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.dll
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\refint\WareHouseMangementSystem.dll
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.pdb
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\WareHouseMangementSystem.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\WareHouseMangementSystem\WareHouseMangementSystem\obj\Debug\net9.0\ref\WareHouseMangementSystem.dll
